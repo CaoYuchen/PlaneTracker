@@ -16,11 +16,11 @@ The main pipeline includes:
 
 The main rotaion model in this project is drawn as below. By setting up a canonical frame between camera frame and world frame, whose Z axis shares the same direction with normal vector of the groundplane, the camera frame's pose can be deduced from Depth image.
 
-<img src="../img/frame.jpg">
+<img src="https://github.com/CaoYuchen/PlaneTracker/img/frame.jpg">
 
 
 The project marks established math model of groundplane and object(chair), and calculate its position as shown below:
 
-<img src="../img/output.png">
+<img src="https://github.com/CaoYuchen/PlaneTracker/img/output.png">
 
 
